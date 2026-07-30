@@ -1,0 +1,8 @@
+openai
+pandas
+numpy
+matplotlib
+tqdm
+python-dotenv
+jupyter
+nbformat
