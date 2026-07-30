@@ -1,4 +1,3 @@
-````markdown
 # A Hierarchical LLM Workflow for Detecting Colonial Propaganda in Historical Newspapers
 
 This repository contains the computational notebook and supporting reproducibility materials associated with the DH2026 contribution:
