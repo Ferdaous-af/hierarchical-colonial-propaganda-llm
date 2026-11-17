@@ -90,7 +90,6 @@ dh2026-colonial-propaganda-llm/
 - `CITATION.cff`: Machine-readable citation metadata.
 - `LICENSE`: GNU General Public License v3.0 for software code.
 - `LICENSE-CONTENT.md`: Creative Commons licence for original non-code material.
-- `.gitignore`: Files and folders that should not be committed to the repository.
 
 ## Installation
 
