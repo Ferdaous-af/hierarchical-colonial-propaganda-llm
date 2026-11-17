@@ -80,12 +80,12 @@ dh2026-colonial-propaganda-llm/
 │
 ├── data/
 │   └── README.md
-
+```
 
 ### Main files
 
 - `notebooks/`: Main Jupyter notebook implementing the workflow.
-- `data/`: Documentation of corpus construction, access conditions, and expected input structure.
+- `data/`: Documentation of corpus construction
 - `requirements.txt`: Python dependencies required to run the notebook.
 - `CITATION.cff`: Machine-readable citation metadata.
 - `LICENSE`: GNU General Public License v3.0 for software code.
