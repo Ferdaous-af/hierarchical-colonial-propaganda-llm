@@ -1,6 +1,6 @@
 # A Hierarchical LLM Workflow for Detecting Colonial Propaganda in Historical Newspapers
 
-This repository contains the computational notebook and supporting reproducibility materials associated with the DH2026 contribution:
+This repository contains the jupyter notebook associated with the DH2026 contribution:
 
 **Affan, F. (2026, July 21). A hierarchical LLM workflow for detecting colonial propaganda in historical newspapers: the case of the Perdicaris Affair (1904). ADHO Digital Humanities Conference 2026 (DH2026), Daejeon Convention Center. [https://doi.org/10.5281/zenodo.24309470](https://doi.org/10.5281/zenodo.24309470)**
 
@@ -97,11 +97,9 @@ dh2026-colonial-propaganda-llm/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/dh2026-colonial-propaganda-llm.git
-cd dh2026-colonial-propaganda-llm
+git clone git clone https://github.com/Ferdaous-af/hierarchical-colonial-propaganda-llm.git
+cd hierarchical-colonial-propaganda-llm
 ```
-
-Replace `YOUR-USERNAME` with the GitHub username under which the repository is published.
 
 Alternatively, download the repository as a ZIP file from GitHub.
 
