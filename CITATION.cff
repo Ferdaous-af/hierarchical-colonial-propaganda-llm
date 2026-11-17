@@ -1,9 +1,9 @@
 cff-version: 1.2.0
-message: "Please cite the associated DH2026 abstract when using this research. When referring specifically to the implementation, also cite this repository."
+message: "Please cite the associated DH2026 paper when using this research. When referring specifically to the implementation, also cite this repository."
 title: "Hierarchical LLM Workflow for Detecting Colonial Propaganda in Historical Newspapers"
 type: software
 version: "1.0.0"
-date-released: "2026-07-30"
+date-released: "2026-07-21"
 
 authors:
   - family-names: "Affan"
@@ -11,8 +11,8 @@ authors:
     email: "ferdaous.affan@uni.lu"
     affiliation: "Luxembourg Centre for Contemporary and Digital History, University of Luxembourg"
 
-repository-code: "https://github.com/YOUR-USERNAME/dh2026-colonial-propaganda-llm"
-url: "https://github.com/YOUR-USERNAME/dh2026-colonial-propaganda-llm"
+repository-code: "https://github.com/Ferdaous-af/hierarchical-colonial-propaganda-llm"
+url: "https://github.com/Ferdaous-af/hierarchical-colonial-propaganda-llm"
 
 license: "GPL-3.0-only"
 
@@ -33,7 +33,7 @@ preferred-citation:
   title: "A Hierarchical LLM Workflow for Detecting Colonial Propaganda in Historical Newspapers: the Case of the Perdicaris Affair (1904)"
   collection-title: "Digital Humanities 2026: Book of Abstracts"
   collection-type: proceedings
-  collection-doi: "10.5281/zenodo.21495909"
+  paper-doi: "10.5281/zenodo.24309470" 
   publisher:
     name: "Alliance of Digital Humanities Organizations"
   conference:
@@ -42,4 +42,4 @@ preferred-citation:
     date-end: "2026-07-31"
     location: "Daejeon Convention Center, Daejeon, South Korea"
   year: 2026
-  url: "https://doi.org/10.5281/zenodo.21495909"
+  url: "https://doi.org/10.5281/zenodo.24309470"
