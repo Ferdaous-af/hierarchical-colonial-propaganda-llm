@@ -2,7 +2,7 @@
 
 This repository contains the computational notebook and supporting reproducibility materials associated with the DH2026 contribution:
 
-**Ferdaous Affan (2026). “A Hierarchical LLM Workflow for Detecting Colonial Propaganda in Historical Newspapers: the Case of the Perdicaris Affair (1904).”**
+**Affan, F. (2026, July 21). A hierarchical LLM workflow for detecting colonial propaganda in historical newspapers: the case of the Perdicaris Affair (1904). ADHO Digital Humanities Conference 2026 (DH2026), Daejeon Convention Center. https://doi.org/10.5281/zenodo.24309470**
 
 ## Research overview
 
@@ -66,7 +66,7 @@ The workflow links model classifications to evidence spans in the original Frenc
 
 This repository accompanies the following published abstract:
 
-> Affan, Ferdaous (2026): “A Hierarchical LLM Workflow for Detecting Colonial Propaganda in Historical Newspapers: the Case of the Perdicaris Affair (1904)”, in: *Digital Humanities 2026: Book of Abstracts*. ADHO Digital Humanities Conference 2026 (DH2026), Daejeon Convention Center. DOI: [10.5281/zenodo.21495909](https://doi.org/10.5281/zenodo.21495909).
+> Affan, F. (2026, July 21). A hierarchical LLM workflow for detecting colonial propaganda in historical newspapers: the case of the Perdicaris Affair (1904). ADHO Digital Humanities Conference 2026 (DH2026), Daejeon Convention Center.DOI: [10.5281/zenodo.24309470]( https://doi.org/10.5281/zenodo.24309470).
 
 
 ## Repository structure
@@ -222,7 +222,7 @@ The complete newspaper texts are not redistributed through this repository. Acce
 
 When referring to the research framework, methodology, analysis, or findings, please cite the published DH2026 abstract:
 
-> Affan, Ferdaous (2026): “A Hierarchical LLM Workflow for Detecting Colonial Propaganda in Historical Newspapers: the Case of the Perdicaris Affair (1904)”, in: *Digital Humanities 2026: Book of Abstracts*. ADHO Digital Humanities Conference 2026 (DH2026), Daejeon Convention Center. DOI: [10.5281/zenodo.21495909](https://doi.org/10.5281/zenodo.21495909).
+> Affan, F. (2026, July 21). A hierarchical LLM workflow for detecting colonial propaganda in historical newspapers: the case of the Perdicaris Affair (1904). ADHO Digital Humanities Conference 2026 (DH2026), Daejeon Convention Center.DOI: [10.5281/zenodo.24309470]( https://doi.org/10.5281/zenodo.24309470).
 
 ### Citing the implementation
 
