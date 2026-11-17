@@ -2,7 +2,7 @@
 
 This repository contains the computational notebook and supporting reproducibility materials associated with the DH2026 contribution:
 
-**Affan, F. (2026, July 21). A hierarchical LLM workflow for detecting colonial propaganda in historical newspapers: the case of the Perdicaris Affair (1904). ADHO Digital Humanities Conference 2026 (DH2026), Daejeon Convention Center. https://doi.org/10.5281/zenodo.24309470**
+**Affan, F. (2026, July 21). A hierarchical LLM workflow for detecting colonial propaganda in historical newspapers: the case of the Perdicaris Affair (1904). ADHO Digital Humanities Conference 2026 (DH2026), Daejeon Convention Center. [https://doi.org/10.5281/zenodo.24309470](https://doi.org/10.5281/zenodo.24309470)**
 
 ## Research overview
 
@@ -61,12 +61,6 @@ The notebook implements four stages:
    - Contextual information concerning rhetorical strategy, historical context, target audience, and ideological framework
 
 The workflow links model classifications to evidence spans in the original French or German text. It is designed to support iterative movement between computational analysis and source-aware close reading.
-
-## Associated publication
-
-This repository accompanies the following published abstract:
-
-> Affan, F. (2026, July 21). A hierarchical LLM workflow for detecting colonial propaganda in historical newspapers: the case of the Perdicaris Affair (1904). ADHO Digital Humanities Conference 2026 (DH2026), Daejeon Convention Center.DOI: [10.5281/zenodo.24309470]( https://doi.org/10.5281/zenodo.24309470).
 
 
 ## Repository structure
