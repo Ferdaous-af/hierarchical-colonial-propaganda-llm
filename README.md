@@ -31,11 +31,11 @@ The workflow applies a hierarchical analytical framework comprising three levels
    - Links between tropes, frames, and rhetorical mechanisms
    - Verbatim textual evidence in the original language
 
-The case study examines newspaper coverage of the 1904 Perdicaris Affair using material retrieved through the [Impresso Media Monitoring of the Past](https://impresso-project.ch/) platform.
+The case study examines newspaper coverage of the 1904 Perdicaris Affair using material retrieved through the [Impresso Media Monitoring of the Past](https://impresso-project.ch/app) Web App.
 
 ## Workflow
 
-The notebook implements four principal stages:
+The notebook implements four stages:
 
 1. **Article relevance classification and propaganda detection**
    - Relevance categories: `CORE`, `RELATED`, `PERIPHERAL`, and `UNRELATED`
@@ -68,7 +68,6 @@ This repository accompanies the following published abstract:
 
 > Affan, Ferdaous (2026): “A Hierarchical LLM Workflow for Detecting Colonial Propaganda in Historical Newspapers: the Case of the Perdicaris Affair (1904)”, in: *Digital Humanities 2026: Book of Abstracts*. ADHO Digital Humanities Conference 2026 (DH2026), Daejeon Convention Center. DOI: [10.5281/zenodo.21495909](https://doi.org/10.5281/zenodo.21495909).
 
-The DOI identifies the complete *Digital Humanities 2026: Book of Abstracts*, rather than an individual DOI assigned exclusively to this contribution.
 
 ## Repository structure
 
@@ -202,7 +201,7 @@ The notebook records the model and parameters used for the DH2026 analysis where
 
 ## Data
 
-The corpus was retrieved through the Impresso Media Monitoring of the Past platform using the keyword query:
+The corpus was retrieved through the Impresso Media Monitoring of the Past Web App using the keyword query:
 
 ```text
 Perdicaris
@@ -220,23 +219,6 @@ The workflow assigns each item one of four relevance categories:
 Following relevance classification, 305 items classified as `CORE` or `RELATED` were retained for the principal analysis.
 
 The complete newspaper texts are not redistributed through this repository. Access to the source material remains subject to the rights, licences, terms of use, and access conditions established by Impresso and its contributing institutions.
-
-The `data/` folder may contain:
-
-- corpus identifiers;
-- retrieval documentation;
-- input-schema examples;
-- legally redistributable derived data;
-- aggregate results;
-- documentation required to reconstruct the corpus.
-
-It should not contain:
-
-- private API credentials;
-- unauthorized copies of newspaper articles;
-- copyrighted images without permission;
-- restricted OCR files;
-- personal or confidential information.
 
 ## Citation
 
@@ -264,7 +246,7 @@ See [`LICENSE`](LICENSE).
 
 ### Original non-code content
 
-Unless otherwise indicated, original documentation, prompts, diagrams, figures, Markdown text, and analytical commentary are licensed under the **Creative Commons Attribution–NonCommercial 4.0 International Licence**.
+Unless otherwise indicated, original documentation, prompts, diagrams, figures, Markdown text, and analytical commentary are licensed under the **Creative Commons Attribution Non Commercial No Derivatives 4.0 International Licence**.
 
 See [`LICENSE-CONTENT.md`](LICENSE-CONTENT.md).
 
