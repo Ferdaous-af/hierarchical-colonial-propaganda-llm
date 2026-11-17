@@ -1,6 +1,6 @@
 # Data documentation
 
-The corpus used in this study was retrieved through the Impresso Media Monitoring of the Past platform using the query `Perdicaris`.
+The corpus used in this study was retrieved through the Impresso Media Monitoring of the Past Web App using the query `Perdicaris`.
 
 The initial research corpus comprises 360 newspaper items in French and German, published between 20 May 1904 and 2 March 1909. Following relevance classification, 305 items classified as `CORE` or `RELATED` were retained for the principal analysis.
 
